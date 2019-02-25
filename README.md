@@ -1,5 +1,5 @@
 # Easy-Windows-Scheduled-Task-Setter
-是否觉得Windows的计划任务设置太过复杂? 让它来帮助你! To makes setup "Scheduled Task" on windows more easily!
+是否觉得Windows的计划任务设置太过复杂? 让它来帮助你! To makes setup "Scheduled Task" on windows more easily!  
 它可以设置一个计划任务使电脑自动将一个文件夹备份到另一个位置! It can setup a scheduled task to makes a folder backup to another location when the interval u have set.
 
 # HOW-TO
